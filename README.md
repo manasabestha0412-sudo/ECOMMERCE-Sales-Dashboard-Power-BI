@@ -16,7 +16,7 @@ Analyzed 1000+ orders and 150 customers with 16.52M total sales to uncover busin
 - DAX
 
 ## 📸 Dashboard Preview
-Dashboard exported as PDF - Monthly trend sorted Jan to Dec, fixed icon backgrounds.
+![Dashboard](Screenshot_20261026-115818.png)
 
 ## 📁 Files
 - .pbix file - Power BI source
