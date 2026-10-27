@@ -25,6 +25,9 @@ Analyzed 1000+ orders and 150 customers with 16.52M total sales to uncover busin
 ## 📁 Files
 - .pbix file - Power BI source
 - .pdf file - Final dashboard
+- .py file - Python analysis (DAY2_ANALYSIS.py)
+- .sql file - SQL queries (Ecommerce_Sql_practiseday5.sql)
+- .png - Dashboard screenshot
 
 ## 💡 What I Learned
 - Fixed checkered icon backgrounds
