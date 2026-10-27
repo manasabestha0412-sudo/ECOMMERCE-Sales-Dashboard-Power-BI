@@ -10,10 +10,14 @@ Analyzed 1000+ orders and 150 customers with 16.52M total sales to uncover busin
 - **Top Payment:** Net Banking (4.6M)
 - **Monthly Trend:** Peaked in May & July 2025
 
-## 🛠️ Tools Used
+### 🛠️ Tools Used
+
 - Power BI Desktop
 - Data Cleaning & Modeling
 - DAX
+- Python (Pandas, Data Analysis) - DAY2_ANALYSIS.py
+- SQL (MySQL, Queries & Aggregations) - Ecommerce_Sql_practiseday5.sql
+- GitHub
 
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot_20261026-115818.png)
